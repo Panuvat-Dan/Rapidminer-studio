@@ -28,7 +28,14 @@ Data mining with rapidminer studio
 
 #### Algoristms support
 
-1. 
+1. Desiction tree
+2. Regression
+3. Support vector machine
+4. K-nearest neighbour
+5. Nueral network
+6. Deep learning 
+
+but in this project we are going to evaluate just only three methods which are no 1. 2. 5.
 
 ## Processes 
 
